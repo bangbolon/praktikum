@@ -5,4 +5,4 @@
 
 Membuat Program Biodata<p>
 ketik script seperti contoh berikut<p>
-![Gambar1](ss/ss1.png)
+![Gambar1](ss/ss1.png.png)
